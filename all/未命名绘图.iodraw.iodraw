@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="https://chatgpt.com/backend-api/estuary/content?id=file_00000000f23471fdaeda04ee726f2a98&amp;ts=490785&amp;p=fs&amp;cid=1&amp;sig=55d7fcb9cdbd6648568aca945fd44d0b0234b1450d94e36dd065cca9c5aff0cb&amp;v=0" link="https://chatgpt.com/backend-api/estuary/content?id=file_00000000f23471fdaeda04ee726f2a98&amp;ts=490785&amp;p=fs&amp;cid=1&amp;sig=55d7fcb9cdbd6648568aca945fd44d0b0234b1450d94e36dd065cca9c5aff0cb&amp;v=0" id="ZoInV7FPS0ojR2uF7xRE-1">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="100" y="740" width="560" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
