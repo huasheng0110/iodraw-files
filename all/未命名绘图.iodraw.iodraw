@@ -16,8 +16,8 @@
             <mxPoint x="-160" y="-1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZoInV7FPS0ojR2uF7xRE-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="-970" width="100" height="60" as="geometry" />
+        <mxCell id="ZoInV7FPS0ojR2uF7xRE-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
