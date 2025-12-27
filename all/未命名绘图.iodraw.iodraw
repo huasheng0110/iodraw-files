@@ -31,8 +31,16 @@
         <mxCell id="ZoInV7FPS0ojR2uF7xRE-10" value="Cookie校验" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-430" y="-900" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZoInV7FPS0ojR2uF7xRE-15" value="提示重新输入Cookie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZoInV7FPS0ojR2uF7xRE-15" value="提示重新输入Cookie" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoInV7FPS0ojR2uF7xRE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZoInV7FPS0ojR2uF7xRE-10" target="ZoInV7FPS0ojR2uF7xRE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoInV7FPS0ojR2uF7xRE-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZoInV7FPS0ojR2uF7xRE-16">
+          <mxGeometry x="0.116" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
