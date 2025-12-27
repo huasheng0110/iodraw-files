@@ -28,7 +28,7 @@
         <mxCell id="ZoInV7FPS0ojR2uF7xRE-9" value="输入网易云Cookie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZoInV7FPS0ojR2uF7xRE-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZoInV7FPS0ojR2uF7xRE-10" value="Cookie校验" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-430" y="-900" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
