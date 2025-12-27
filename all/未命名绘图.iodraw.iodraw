@@ -53,8 +53,8 @@
         <mxCell id="ZoInV7FPS0ojR2uF7xRE-18" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;选择下载模式&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;榜单/搜索&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZoInV7FPS0ojR2uF7xRE-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="-800" width="120" height="60" as="geometry" />
+        <mxCell id="ZoInV7FPS0ojR2uF7xRE-22" value="获取歌单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
