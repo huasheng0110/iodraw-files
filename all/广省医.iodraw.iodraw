@@ -49,7 +49,7 @@
         <mxCell id="GN-63CmUx4wSu9kdE1cS-18" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;ALCAPA&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff0000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="154" y="147" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GN-63CmUx4wSu9kdE1cS-19" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;ALCAPA&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff0000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="GN-63CmUx4wSu9kdE1cS-19" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Non-ALCAPA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff0000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="154" y="247" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
