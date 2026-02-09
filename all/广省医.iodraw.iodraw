@@ -32,7 +32,7 @@
           <mxGeometry x="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GN-63CmUx4wSu9kdE1cS-21" value="Echcardiographic Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="320" y="820" width="439" height="73" as="geometry" />
+          <mxGeometry x="161" y="150" width="140" height="53" as="geometry" />
         </mxCell>
         <mxCell id="GN-63CmUx4wSu9kdE1cS-23" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="48" y="190" width="366" height="220" as="geometry" />
