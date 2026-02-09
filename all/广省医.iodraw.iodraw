@@ -55,8 +55,8 @@
         <mxCell id="GN-63CmUx4wSu9kdE1cS-19" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Non-ALCAPA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#038901;strokeColor=none;" vertex="1" parent="GN-63CmUx4wSu9kdE1cS-23">
           <mxGeometry x="130" y="127" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GN-63CmUx4wSu9kdE1cS-21" value="Echcardiographic Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="GN-63CmUx4wSu9kdE1cS-23">
-          <mxGeometry x="116" y="-12" width="137" height="26" as="geometry" />
+        <mxCell id="GN-63CmUx4wSu9kdE1cS-21" value="Echcardiographic Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="GN-63CmUx4wSu9kdE1cS-23">
+          <mxGeometry x="105" y="-12" width="137" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
