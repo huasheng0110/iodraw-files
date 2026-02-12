@@ -372,7 +372,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xOD6NYGctTZXjxtfvQCQ-68" value="Intelligent Diagnostic System for Detecting Anomalous Origin of the Left Coronary Artery from the Pulmonary Artery Using Echocardiogram" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="640" width="320" height="30" as="geometry" />
+          <mxGeometry x="180" y="630" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
