@@ -371,7 +371,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xOD6NYGctTZXjxtfvQCQ-68" value="&lt;b&gt;Intelligent Diagnostic System&lt;/b&gt; for Detecting Anomalous Origin of the&amp;nbsp;&lt;div&gt;Left Coronary Artery from the &lt;b&gt;Pulmonary Artery&lt;/b&gt; Using Echocardiogram&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xOD6NYGctTZXjxtfvQCQ-68" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Intelligent Diagnostic System&lt;/b&gt; for Detecting Anomalous Origin of the&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Left Coronary Artery from the &lt;b style=&quot;&quot;&gt;Pulmonary Artery&lt;/b&gt; Using &lt;b style=&quot;&quot;&gt;Echocardiogram&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="630" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
